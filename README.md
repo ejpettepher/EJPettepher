@@ -10,7 +10,7 @@
 
 ### About
 
-Howdy y'all — I go by Ethan or EJ. I'm an applied environmental and infectious disease epidemiologist (**MPH**, Emory '25; **CPH**, NBPHE '26) working across predictive and geospatial modeling, occupational health, and global health security. I use this space to sharpen my health data analysis and programming skills as a public health scientist.
+Howdy y'all — I go by Ethan or EJ. I'm an applied infectious disease and environmental epidemiologist (MPH, Emory RSPH '25; CPH, NBPHE '26) interested in diving deeper into infectious disease dynamics, healthcare operations and public health program evaluation, and global health and biosecurity. Specifically, I'm interested in testing how we can use complex systems thinking, mechanistic & deterministic modeling, and spatio-temporal & network analytics to better understand and address these areas. This space is 10% professional portfolio and 90% digital workbench for sharpening my data analysis and programming skills, so please excuse the mess!
 
 ---
 
